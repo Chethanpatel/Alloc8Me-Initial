@@ -1,0 +1,2 @@
+# ENGINEERING_COLLEGE_PREDICTOR
+An Engineering College Predictor for undergraduate admission seekers, which can help students to choose best College matching their academic profile. We have developed a machine learning algorithm which can predict the college which have the cut-off rank close to the user. I have used K-nearest Neighbour algorithm for calculating the Karnataka CET rank and the users PUC percentage.
